@@ -2,4 +2,4 @@
 
 > Flutter for Web - same codebase for Web, Android and iOS.
 
-![](Screenshot (9).png)
+![](Screenshot.png)
